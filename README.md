@@ -1,3 +1,7 @@
+APP Screenshots:
+![1](https://github.com/kaushikgoud5/DailyDigest_NewsApp/assets/92638590/014abf89-e194-4bc4-94c0-2ca3c9ba8713)
+![2](https://github.com/kaushikgoud5/DailyDigest_NewsApp/assets/92638590/95a0faf6-166c-421b-aee6-abbce763c5e7)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
