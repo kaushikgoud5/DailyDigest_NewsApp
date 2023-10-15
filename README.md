@@ -1,3 +1,20 @@
+Overview
+This is a web application that utilizes the News API to fetch and display news articles. It is built using the React framework, offering a modern and interactive user experience for staying updated with the latest news.
+
+Features
+Live News Feed: Get real-time news articles from various sources and categories.
+Category Filters: Browse news by categories such as Business, Technology, Health, and more.
+Responsive Design: The app is designed to work seamlessly on both desktop and mobile devices.
+User-Friendly Interface: An intuitive and user-friendly interface for easy navigation.
+
+Technologies Used
+React
+News API
+HTML
+CSS
+JavaScript
+
+
 APP Screenshots:
 ![1](https://github.com/kaushikgoud5/DailyDigest_NewsApp/assets/92638590/014abf89-e194-4bc4-94c0-2ca3c9ba8713)
 ![2](https://github.com/kaushikgoud5/DailyDigest_NewsApp/assets/92638590/95a0faf6-166c-421b-aee6-abbce763c5e7)
